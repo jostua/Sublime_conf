@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+sql_p(${1:\$sql}, __LINE__);
+]]></content>
+<tabTrigger>sql_p</tabTrigger>
+<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Cheat Sheets",
+		"CodeFormatter",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"ImprovedSQL",
+		"INI",
+		"Laravel 4 Artisan",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Local History",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Open Folder",
+		"Origami",
+		"Package Control",
+		"R-Box",
+		"Sass",
+		"SFTP",
+		"Simple Print Function",
+		"SqlBeautifier",
+		"SQLExec",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
