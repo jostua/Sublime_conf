@@ -6,12 +6,10 @@
 	[
 		"Advanced CSV",
 		"BracketHighlighter",
-		"ChangeQuotes",
 		"Cheat Sheets",
 		"CodeFormatter",
 		"Colorsublime",
 		"DocBlockr",
-		"Emmet",
 		"Git",
 		"GitGutter",
 		"ImprovedSQL",
@@ -33,7 +31,6 @@
 		"Simple Print Function",
 		"SqlBeautifier",
 		"SQLExec",
-		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeCodeIntel"
 	]
 }
