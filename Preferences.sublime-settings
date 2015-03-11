@@ -1,8 +1,9 @@
 {
 	"caret_style": "smooth",
-	"color_scheme": "Packages/User/Blackboard (SL).tmTheme",
-	"debug": "true",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"debug": true,
 	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
 	"font_size": 8,
 	"highlight_line": true,
@@ -11,5 +12,9 @@
 		"Vintage",
 		"Markdown"
 	],
+	"log_commands": "enabled",
+	"status_bar_brighter": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme",
 	"word_wrap": "true"
 }

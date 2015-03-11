@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Advanced CSV",
+		"Auto Semi-Colon",
 		"BracketHighlighter",
 		"Cheat Sheets",
 		"CodeFormatter",
@@ -20,8 +21,7 @@
 		"Laravel Blade Highlighter",
 		"Local History",
 		"Markdown Extended",
-		"Markdown Preview",
-		"MarkdownEditing",
+		"MultiEditUtils",
 		"Open Folder",
 		"Origami",
 		"Package Control",
@@ -31,6 +31,7 @@
 		"Simple Print Function",
 		"SqlBeautifier",
 		"SQLExec",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Theme - Afterglow"
 	]
 }

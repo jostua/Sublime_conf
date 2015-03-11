@@ -1,3 +1,5 @@
 [
 	{ "keys": ["ctrl+shift+r"], "command": "sftp_browse_server" },
+	{ "keys": ["ctrl+super+r+b"], "command": "sftp_browse_server" },
+	{ "keys": ["ctrl+alt+r+b"], "command": "sftp_browse_server" },
 ]
