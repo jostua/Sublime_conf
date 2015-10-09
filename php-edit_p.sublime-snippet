@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+edit_p(${1:\$sql}, __LINE__);
+]]></content>
+<tabTrigger>edit_p</tabTrigger>
+<scope>source.php</scope>
+</snippet>
