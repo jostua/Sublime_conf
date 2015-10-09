@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$report_label->addParam('${1}','${2}','${3}');
+]]></content>
+<tabTrigger>addParam</tabTrigger>
+<scope>source.php</scope>
+</snippet>
