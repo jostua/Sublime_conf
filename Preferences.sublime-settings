@@ -1,6 +1,6 @@
 {
 	"caret_style": "smooth",
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Afterglow.tmTheme",
 	"debug": true,
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_US.dic",
@@ -9,7 +9,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Laravel 4 Facades",
 		"Markdown",
+		"Open Folder",
 		"Vintage"
 	],
 	"log_commands": "enabled",
